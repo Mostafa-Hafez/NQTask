@@ -1,0 +1,135 @@
+﻿@using NQTASK.Models.ViewModels.Product
+@model NQTASK.Models.ViewModels.Client.ClientInfo
+
+@{
+    ViewData["Title"] = "Index";
+    List<productselectVM> products = ViewBag.products;
+    List<string> prductsnames = new List<string>();
+   
+}
+
+
+
+<div>
+  
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ID)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ID)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Code)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Code)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DateofRegistration)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DateofRegistration)
+        </dd>
+    </dl>
+</div>
+
+    @Html.DropDownList("Products", new SelectList(products, "ID", "Name"), "select product", new { @id = "products" })
+    <input style="background-color:forestgreen" type="button" name="name" value="Add" onclick="Add()">
+<input style="background-color:greenyellow" class="btn-warning" type="button" onclick="Savebtn()" name="name" value="Buy">
+    <button class="btn-dark"  onclick="clearcontent()">Clear</button>
+
+
+
+
+ 
+<hr />
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Price
+            </th>
+        </tr>
+    </thead>
+    <tbody id ="par">
+        
+    </tbody>
+</table>
+<div >
+
+</div>
+<script>
+
+    function clearcontent() {
+        document.getElementById("par").innerHTML ="";
+    };
+
+    function Add(){
+               var drop=document.getElementById("products");
+
+               var id = drop.value;
+               $.get("/Buying/selectproduct/"+id,function (partialview){
+                          $("#par").append(partialview);
+                    })
+           }
+
+    function Savebtn() {
+        var Products = [];
+
+        $("#par tr").each(function () {
+            var name = $(this).find("td:eq(0)").text().trim();
+
+            Products.push(name);
+        });
+
+        console.log(Products);
+        if (Products.length > 0) {
+            $.ajax({
+                url: "/Buying/Save",
+                type: "POST",
+                contentType: "application/json",
+                data: JSON.stringify({Products }),
+                success: function (response) {
+                    alert("Saved successfully!");
+                    $("#par").empty();
+                },
+                error: function () {
+                    alert("Error in saving");
+                }
+            });
+        } else {
+            alert("No Selected Item");
+            }
+        }
+
+    function clear(){
+        $(" #par").empty();
+    }
+
+
+
+
+</script>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+
+
+

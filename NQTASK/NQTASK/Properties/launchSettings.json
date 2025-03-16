@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "NQTASK": {
+      "commandName": "Project",
+      "launchBrowser": true
+    }}
+}

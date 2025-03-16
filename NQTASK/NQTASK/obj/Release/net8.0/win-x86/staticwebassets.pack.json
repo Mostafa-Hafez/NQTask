@@ -1,0 +1,889 @@
+{
+  "Files": [
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\ace.bundle.css",
+      "PackagePath": "staticwebassets\\css\\ace\\ace.bundle.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\ambiance-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\ambiance-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\ambiance-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\ambiance-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\ambiance-3.png",
+      "PackagePath": "staticwebassets\\css\\ace\\ambiance-3.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\chrome-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\chrome-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\chrome-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\chrome-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\cloud9_day-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\cloud9_day-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\cloud9_day-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\cloud9_day-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\cloud9_night-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\cloud9_night-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\cloud9_night-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\cloud9_night-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\cloud9_night_low_color-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\cloud9_night_low_color-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\cloud9_night_low_color-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\cloud9_night_low_color-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\clouds-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\clouds-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\clouds-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\clouds-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\clouds_midnight-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\clouds_midnight-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\clouds_midnight-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\clouds_midnight-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\cobalt-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\cobalt-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\cobalt-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\cobalt-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\crimson_editor-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\crimson_editor-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\crimson_editor-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\crimson_editor-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\dawn-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\dawn-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\dawn-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\dawn-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\dracula-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\dracula-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\dracula-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\dracula-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\dreamweaver-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\dreamweaver-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\dreamweaver-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\dreamweaver-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\eclipse-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\eclipse-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\eclipse-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\eclipse-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\github-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\github-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\github-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\github-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\github_dark-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\github_dark-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\github_dark-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\github_dark-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\github_light_default-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\github_light_default-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\github_light_default-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\github_light_default-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\gob-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\gob-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\gob-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\gob-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\gruvbox-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\gruvbox-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\gruvbox-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\gruvbox-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\gruvbox_dark_hard-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\gruvbox_dark_hard-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\gruvbox_light_hard-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\gruvbox_light_hard-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\gruvbox_light_hard-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\gruvbox_light_hard-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\idle_fingers-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\idle_fingers-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\idle_fingers-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\idle_fingers-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\iplastic-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\iplastic-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\iplastic-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\iplastic-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\iplastic-3.png",
+      "PackagePath": "staticwebassets\\css\\ace\\iplastic-3.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\katzenmilch-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\katzenmilch-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\katzenmilch-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\katzenmilch-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\kr_theme-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\kr_theme-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\kr_theme-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\kr_theme-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\kuroir-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\kuroir-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\kuroir-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\kuroir-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-10.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-10.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-10.svg",
+      "PackagePath": "staticwebassets\\css\\ace\\main-10.svg"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-11.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-11.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-11.svg",
+      "PackagePath": "staticwebassets\\css\\ace\\main-11.svg"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-12.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-12.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-12.svg",
+      "PackagePath": "staticwebassets\\css\\ace\\main-12.svg"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-13.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-13.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-14.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-14.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-15.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-15.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-16.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-16.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-17.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-17.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-18.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-18.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-19.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-19.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-20.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-20.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-21.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-21.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-22.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-22.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-22.svg",
+      "PackagePath": "staticwebassets\\css\\ace\\main-22.svg"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-23.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-23.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-24.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-24.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-25.svg",
+      "PackagePath": "staticwebassets\\css\\ace\\main-25.svg"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-26.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-26.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-3.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-3.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-4.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-4.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-5.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-5.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-5.svg",
+      "PackagePath": "staticwebassets\\css\\ace\\main-5.svg"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-6.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-6.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-6.svg",
+      "PackagePath": "staticwebassets\\css\\ace\\main-6.svg"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-7.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-7.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-7.svg",
+      "PackagePath": "staticwebassets\\css\\ace\\main-7.svg"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-8.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-8.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-8.svg",
+      "PackagePath": "staticwebassets\\css\\ace\\main-8.svg"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-9.png",
+      "PackagePath": "staticwebassets\\css\\ace\\main-9.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\main-9.svg",
+      "PackagePath": "staticwebassets\\css\\ace\\main-9.svg"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\merbivore-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\merbivore-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\merbivore-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\merbivore-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\merbivore_soft-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\merbivore_soft-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\merbivore_soft-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\merbivore_soft-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\mono_industrial-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\mono_industrial-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\mono_industrial-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\mono_industrial-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\monokai-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\monokai-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\monokai-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\monokai-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\one_dark-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\one_dark-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\one_dark-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\one_dark-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\pastel_on_dark-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\pastel_on_dark-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\pastel_on_dark-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\pastel_on_dark-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\solarized_dark-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\solarized_dark-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\solarized_dark-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\solarized_dark-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\solarized_light-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\solarized_light-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\solarized_light-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\solarized_light-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\sqlserver-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\sqlserver-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\sqlserver-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\sqlserver-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\terminal-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\terminal-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\terminal-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\terminal-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\textmate-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\textmate-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\textmate-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\textmate-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\tomorrow-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\tomorrow-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\tomorrow-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\tomorrow-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\tomorrow_night-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\tomorrow_night-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\tomorrow_night-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\tomorrow_night-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\tomorrow_night_blue-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\tomorrow_night_blue-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\tomorrow_night_blue-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\tomorrow_night_blue-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\tomorrow_night_bright-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\tomorrow_night_bright-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\tomorrow_night_bright-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\tomorrow_night_bright-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\tomorrow_night_eighties-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\tomorrow_night_eighties-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\tomorrow_night_eighties-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\tomorrow_night_eighties-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\twilight-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\twilight-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\twilight-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\twilight-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\vibrant_ink-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\vibrant_ink-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\vibrant_ink-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\vibrant_ink-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\xcode-1.png",
+      "PackagePath": "staticwebassets\\css\\ace\\xcode-1.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\ace\\xcode-2.png",
+      "PackagePath": "staticwebassets\\css\\ace\\xcode-2.png"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\designer.part.bundle.css",
+      "PackagePath": "staticwebassets\\css\\designer.part.bundle.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\dx-reporting-skeleton-screen.css",
+      "PackagePath": "staticwebassets\\css\\dx-reporting-skeleton-screen.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\dx.carmine.bundle.css",
+      "PackagePath": "staticwebassets\\css\\dx.carmine.bundle.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\dx.dark.bundle.css",
+      "PackagePath": "staticwebassets\\css\\dx.dark.bundle.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\dx.darkmoon.bundle.css",
+      "PackagePath": "staticwebassets\\css\\dx.darkmoon.bundle.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\dx.darkviolet.bundle.css",
+      "PackagePath": "staticwebassets\\css\\dx.darkviolet.bundle.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\dx.greenmist.bundle.css",
+      "PackagePath": "staticwebassets\\css\\dx.greenmist.bundle.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\dx.light.bundle.css",
+      "PackagePath": "staticwebassets\\css\\dx.light.bundle.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\dx.material.blue.dark.bundle.css",
+      "PackagePath": "staticwebassets\\css\\dx.material.blue.dark.bundle.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\dx.material.blue.light.bundle.css",
+      "PackagePath": "staticwebassets\\css\\dx.material.blue.light.bundle.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\dx.material.lime.dark.bundle.css",
+      "PackagePath": "staticwebassets\\css\\dx.material.lime.dark.bundle.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\dx.material.lime.light.bundle.css",
+      "PackagePath": "staticwebassets\\css\\dx.material.lime.light.bundle.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\dx.material.orange.dark.bundle.css",
+      "PackagePath": "staticwebassets\\css\\dx.material.orange.dark.bundle.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\dx.material.orange.light.bundle.css",
+      "PackagePath": "staticwebassets\\css\\dx.material.orange.light.bundle.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\dx.material.purple.dark.bundle.css",
+      "PackagePath": "staticwebassets\\css\\dx.material.purple.dark.bundle.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\dx.material.purple.light.bundle.css",
+      "PackagePath": "staticwebassets\\css\\dx.material.purple.light.bundle.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\dx.material.teal.dark.bundle.css",
+      "PackagePath": "staticwebassets\\css\\dx.material.teal.dark.bundle.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\dx.material.teal.light.bundle.css",
+      "PackagePath": "staticwebassets\\css\\dx.material.teal.light.bundle.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\dx.softblue.bundle.css",
+      "PackagePath": "staticwebassets\\css\\dx.softblue.bundle.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\icons\\dxicons.ttf",
+      "PackagePath": "staticwebassets\\css\\icons\\dxicons.ttf"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\icons\\dxicons.woff",
+      "PackagePath": "staticwebassets\\css\\icons\\dxicons.woff"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\icons\\dxicons.woff2",
+      "PackagePath": "staticwebassets\\css\\icons\\dxicons.woff2"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\icons\\dxiconsmaterial.ttf",
+      "PackagePath": "staticwebassets\\css\\icons\\dxiconsmaterial.ttf"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\icons\\dxiconsmaterial.woff",
+      "PackagePath": "staticwebassets\\css\\icons\\dxiconsmaterial.woff"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\icons\\dxiconsmaterial.woff2",
+      "PackagePath": "staticwebassets\\css\\icons\\dxiconsmaterial.woff2"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\thirdparty.bundle.css",
+      "PackagePath": "staticwebassets\\css\\thirdparty.bundle.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\css\\viewer.part.bundle.css",
+      "PackagePath": "staticwebassets\\css\\viewer.part.bundle.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\js\\designer.part.bundle.js",
+      "PackagePath": "staticwebassets\\js\\designer.part.bundle.js"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\js\\reporting.thirdparty.bundle.js",
+      "PackagePath": "staticwebassets\\js\\reporting.thirdparty.bundle.js"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\js\\site.thirdparty.bundle.js",
+      "PackagePath": "staticwebassets\\js\\site.thirdparty.bundle.js"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\js\\viewer.part.bundle.js",
+      "PackagePath": "staticwebassets\\js\\viewer.part.bundle.js"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.NQTASK.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.NQTASK.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.build.NQTASK.props",
+      "PackagePath": "build\\NQTASK.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.buildMultiTargeting.NQTASK.props",
+      "PackagePath": "buildMultiTargeting\\NQTASK.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.buildTransitive.NQTASK.props",
+      "PackagePath": "buildTransitive\\NQTASK.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

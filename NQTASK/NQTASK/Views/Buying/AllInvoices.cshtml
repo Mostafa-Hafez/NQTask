@@ -1,0 +1,48 @@
+﻿@model IEnumerable<NQTASK.Models.ViewModels.Invoice.UserInvoices>
+
+@{
+    ViewData["Title"] = "AllInvoices";
+    int clid = int.Parse(ViewBag.cl_ID);
+}
+<a style="text-align:right" href="/Buying/PrintInvoice">Print</a>
+
+
+<table class="table ">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.OutDatetime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Total)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr class="table-danger ">
+            <td>
+                @Html.DisplayFor(modelItem => item.OutDatetime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Total)
+            </td>
+                
+        </tr>
+                <tr >
+                    <td>@Html.DisplayNameFor(model => model.Products.SingleOrDefault().Name)</td>
+                    <td>@Html.DisplayNameFor(model => model.Products.SingleOrDefault().Price)</td>
+                    </tr>
+                    @foreach (var pro in item.Products)
+                {
+                <tr class="table table-bordered table-active">
+                        <td>@Html.DisplayFor(modelItem => pro.Name)</td>
+                        <td>@Html.DisplayFor(modelItem => pro.Price)</td>
+                    </tr>
+                  
+                }
+       
+}
+    </tbody>
+</table>

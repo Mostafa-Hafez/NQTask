@@ -1,0 +1,105 @@
+﻿@using Microsoft.AspNetCore.Http
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - NQTASK</title>
+    <link rel="stylesheet" href="~/css/thirdparty.bundle.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <style>
+        body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color:powderblue;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid vh-100 d-flex flex-column">
+        <header>
+            <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+                <div class="container-fluid">
+                    <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">NQTASK</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                        <ul class="navbar-nav flex-grow-1">
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            </li>
+                            @{
+                                string UserRole;
+                                if (Context.Request.Cookies["Role"]==null){
+                                    UserRole = "";
+                                }else{
+                                    UserRole = Context.Request.Cookies["Role"].ToString();
+                                }
+                                
+                                @if(UserRole=="Client"){
+                                    <li class="nav-item">
+                                        <a class="nav-link text-dark" asp-area="" asp-controller="Buying" asp-action="Index">Buy</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link text-dark" asp-area="" asp-controller="Buying" asp-action="AllInvoices">My Invoices</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link btn-danger" asp-area="" asp-controller="Account" asp-action="Logout">Logout</a>
+                                    </li>
+                                    
+                                }
+                                else if (UserRole == "Admin"){
+
+                                    <li class="nav-item">
+                                        <a class="nav-link text-dark" asp-area="" asp-controller="Invoices" asp-action="Index">Invoices</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Index">Products</a>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="NewAdmin">New Admin</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link btn-danger" asp-area="" asp-controller="Account" asp-action="Logout">Logout</a>
+                                    </li>
+                                }
+                               else{
+
+                                        <li class="nav-item">
+                                        <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
+                                        
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Registration">Rigister</a>
+                                    </li>
+                                    
+                               }
+                            
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        <div class="container-fluid">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+
+        <footer class="border-top footer text-muted">
+            <div class="container">
+                <p style="text-align:center">All Copy Right reserved &copy; @DateTime.Now.Year - National Quality</p>
+            </div>
+        </footer>
+        <script src="~/js/site.thirdparty.bundle.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+        @RenderSection("Scripts", false)
+    </div>   
+</body>
+</html>

@@ -1,0 +1,47 @@
+﻿@model IEnumerable<NQTASK.Models.ViewModels.Invoice.ClientInvoiceforlistVM>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 style="text-align:center">All Invoices</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OutDateTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Total)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OutDateTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Total)
+            </td>
+            <td>
+                @Html.ActionLink("show invoice", "ShowInvoice", item) 
+            </td>
+            <td>
+                @Html.ActionLink("", "PrintUserInvoice", new { id = item.Cl_Id })
+            </td>
+                
+        </tr>
+}
+    </tbody>
+</table>

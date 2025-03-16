@@ -1,0 +1,468 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\migrations\\20250316101810_finalrelease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\migrations\\20250316101810_finalrelease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\views\\buying\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\views\\buying\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\views\\account\\newadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\views\\account\\newadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\views\\invoices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\views\\invoices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\views\\invoices\\printuserinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\views\\invoices\\printuserinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\views\\invoices\\showinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\views\\invoices\\showinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\views\\products\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\views\\products\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\views\\buying\\allinvoices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\views\\buying\\allinvoices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\controllers\\buyingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\controllers\\buyingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\reports\\fullinvoicereport.cs||{95027D70-C6B4-4736-8A48-AD3582187321}|Form",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\reports\\fullinvoicereport.cs||{95027D70-C6B4-4736-8A48-AD3582187321}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\reports\\fullinvoicereport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\reports\\fullinvoicereport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\models\\viewmodels\\product\\productselectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\models\\viewmodels\\product\\productselectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\models\\viewmodels\\product\\newproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\models\\viewmodels\\product\\newproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\models\\viewmodels\\product\\productforlistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\models\\viewmodels\\product\\productforlistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\views\\products\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\views\\products\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\models\\viewmodels\\product\\editproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\models\\viewmodels\\product\\editproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|k:\\comanies\\national quality\\mainproject\\testwithdevexpress\\nqtask\\nqtask\\models\\viewmodels\\product\\productinfovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DBA2FD-CB13-4F50-8E94-22298AFC327B}|NQTASK\\NQTASK.csproj|solutionrelative:nqtask\\models\\viewmodels\\product\\productinfovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "NQTASK\\Controllers\\ProductsController.cs",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "NQTASK\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAEwGkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:52:42.213Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InvoicesController.cs",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Controllers\\InvoicesController.cs",
+              "RelativeDocumentMoniker": "NQTASK\\Controllers\\InvoicesController.cs",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Controllers\\InvoicesController.cs",
+              "RelativeToolTip": "NQTASK\\Controllers\\InvoicesController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T22:39:49.866Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BuyingController.cs",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Controllers\\BuyingController.cs",
+              "RelativeDocumentMoniker": "NQTASK\\Controllers\\BuyingController.cs",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Controllers\\BuyingController.cs",
+              "RelativeToolTip": "NQTASK\\Controllers\\BuyingController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T22:07:34.043Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\appsettings.json",
+              "RelativeDocumentMoniker": "NQTASK\\appsettings.json",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\appsettings.json",
+              "RelativeToolTip": "NQTASK\\appsettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T10:15:48.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250316101810_finalrelease.cs",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Migrations\\20250316101810_finalrelease.cs",
+              "RelativeDocumentMoniker": "NQTASK\\Migrations\\20250316101810_finalrelease.cs",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Migrations\\20250316101810_finalrelease.cs",
+              "RelativeToolTip": "NQTASK\\Migrations\\20250316101810_finalrelease.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:18:12.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewAdmin.cshtml",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Account\\NewAdmin.cshtml",
+              "RelativeDocumentMoniker": "NQTASK\\Views\\Account\\NewAdmin.cshtml",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Account\\NewAdmin.cshtml",
+              "RelativeToolTip": "NQTASK\\Views\\Account\\NewAdmin.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T01:59:37.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Buying\\Index.cshtml",
+              "RelativeDocumentMoniker": "NQTASK\\Views\\Buying\\Index.cshtml",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Buying\\Index.cshtml",
+              "RelativeToolTip": "NQTASK\\Views\\Buying\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T23:42:56.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrintUserInvoice.cshtml",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Invoices\\PrintUserInvoice.cshtml",
+              "RelativeDocumentMoniker": "NQTASK\\Views\\Invoices\\PrintUserInvoice.cshtml",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Invoices\\PrintUserInvoice.cshtml",
+              "RelativeToolTip": "NQTASK\\Views\\Invoices\\PrintUserInvoice.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T09:54:00.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "NQTASK\\Views\\Products\\Index.cshtml",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "NQTASK\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T09:56:10.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Invoices\\Index.cshtml",
+              "RelativeDocumentMoniker": "NQTASK\\Views\\Invoices\\Index.cshtml",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Invoices\\Index.cshtml",
+              "RelativeToolTip": "NQTASK\\Views\\Invoices\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T23:12:13.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Products\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "NQTASK\\Views\\Products\\AddProduct.cshtml",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Products\\AddProduct.cshtml",
+              "RelativeToolTip": "NQTASK\\Views\\Products\\AddProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T09:55:24.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShowInvoice.cshtml",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Invoices\\ShowInvoice.cshtml",
+              "RelativeDocumentMoniker": "NQTASK\\Views\\Invoices\\ShowInvoice.cshtml",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Invoices\\ShowInvoice.cshtml",
+              "RelativeToolTip": "NQTASK\\Views\\Invoices\\ShowInvoice.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T09:54:03.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "NQTASK\\Views\\Account\\Login.cshtml",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "NQTASK\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T00:12:05.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Account\\Registration.cshtml",
+              "RelativeDocumentMoniker": "NQTASK\\Views\\Account\\Registration.cshtml",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Account\\Registration.cshtml",
+              "RelativeToolTip": "NQTASK\\Views\\Account\\Registration.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T01:52:16.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NQTASK\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NQTASK\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T00:15:38.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NQTASK\\Views\\Home\\Index.cshtml",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NQTASK\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T09:26:52.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AllInvoices.cshtml",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Buying\\AllInvoices.cshtml",
+              "RelativeDocumentMoniker": "NQTASK\\Views\\Buying\\AllInvoices.cshtml",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Buying\\AllInvoices.cshtml",
+              "RelativeToolTip": "NQTASK\\Views\\Buying\\AllInvoices.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T23:44:28.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "NQTASK\\Controllers\\AccountController.cs",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "NQTASK\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAqwMoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T01:23:51.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FullinvoiceReport.cs [Design]",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Reports\\FullinvoiceReport.cs",
+              "RelativeDocumentMoniker": "NQTASK\\Reports\\FullinvoiceReport.cs",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Reports\\FullinvoiceReport.cs [Design]",
+              "RelativeToolTip": "NQTASK\\Reports\\FullinvoiceReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:22:37.944Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FullinvoiceReport.Designer.cs",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Reports\\FullinvoiceReport.Designer.cs",
+              "RelativeDocumentMoniker": "NQTASK\\Reports\\FullinvoiceReport.Designer.cs",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Reports\\FullinvoiceReport.Designer.cs",
+              "RelativeToolTip": "NQTASK\\Reports\\FullinvoiceReport.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:53:40.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NewProductVM.cs",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Models\\ViewModels\\Product\\NewProductVM.cs",
+              "RelativeDocumentMoniker": "NQTASK\\Models\\ViewModels\\Product\\NewProductVM.cs",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Models\\ViewModels\\Product\\NewProductVM.cs",
+              "RelativeToolTip": "NQTASK\\Models\\ViewModels\\Product\\NewProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:55:07.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductforListVM.cs",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Models\\ViewModels\\Product\\ProductforListVM.cs",
+              "RelativeDocumentMoniker": "NQTASK\\Models\\ViewModels\\Product\\ProductforListVM.cs",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Models\\ViewModels\\Product\\ProductforListVM.cs",
+              "RelativeToolTip": "NQTASK\\Models\\ViewModels\\Product\\ProductforListVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:54:59.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "productselectVM.cs",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Models\\ViewModels\\Product\\productselectVM.cs",
+              "RelativeDocumentMoniker": "NQTASK\\Models\\ViewModels\\Product\\productselectVM.cs",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Models\\ViewModels\\Product\\productselectVM.cs",
+              "RelativeToolTip": "NQTASK\\Models\\ViewModels\\Product\\productselectVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T22:20:12.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateProduct.cshtml",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Products\\UpdateProduct.cshtml",
+              "RelativeDocumentMoniker": "NQTASK\\Views\\Products\\UpdateProduct.cshtml",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Views\\Products\\UpdateProduct.cshtml",
+              "RelativeToolTip": "NQTASK\\Views\\Products\\UpdateProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T22:26:53.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditProductVM.cs",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Models\\ViewModels\\Product\\EditProductVM.cs",
+              "RelativeDocumentMoniker": "NQTASK\\Models\\ViewModels\\Product\\EditProductVM.cs",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Models\\ViewModels\\Product\\EditProductVM.cs",
+              "RelativeToolTip": "NQTASK\\Models\\ViewModels\\Product\\EditProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T22:04:47.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductInfoVM.cs",
+              "DocumentMoniker": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Models\\ViewModels\\Product\\ProductInfoVM.cs",
+              "RelativeDocumentMoniker": "NQTASK\\Models\\ViewModels\\Product\\ProductInfoVM.cs",
+              "ToolTip": "K:\\Comanies\\national quality\\MainProject\\TestWithdevexpress\\NQTASK\\NQTASK\\Models\\ViewModels\\Product\\ProductInfoVM.cs",
+              "RelativeToolTip": "NQTASK\\Models\\ViewModels\\Product\\ProductInfoVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:54:29.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
